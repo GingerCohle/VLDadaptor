@@ -85,7 +85,8 @@ CUDA_VISIBLE_DEVICES=0 python tools/test_net.py --config-file configs/SIGMA/sigm
 ```
 
 ## Code Inside
-![image](https://github.com/GingerCohle/VLDadaptor/assets/37873318/e5ee837f-2996-4484-978e-ec6f87fb8e55)
+![image](https://github.com/GingerCohle/VLDadaptor/assets/37873318/fb131219-f661-4139-a28c-099009dab432)
+
 
 #### In fcos_core/modeling/rpn/fcos/graph_matching_head.py, the prompt templates  and other components are in.
 
