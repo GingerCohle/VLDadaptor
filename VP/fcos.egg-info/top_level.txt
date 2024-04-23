@@ -1,4 +1,0 @@
-fcos
-fcos_core
-fcos_core_for_TSNE
-fcos_coretsne1
