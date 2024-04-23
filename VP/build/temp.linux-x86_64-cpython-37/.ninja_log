@@ -1,0 +1,25 @@
+# ninja log v5
+15	21547	1712050256072349409	/media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/build/temp.linux-x86_64-cpython-37/fcos_core/csrc/vision.o	114d239e66b21d63
+11	19398	1712050253928340619	/media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/build/temp.linux-x86_64-cpython-37/fcos_core/csrc/cpu/nms_cpu.o	bb52541d314c035a
+14	11153	1712050245684306654	/media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/build/temp.linux-x86_64-cpython-37/fcos_core/csrc/cuda/ml_nms.o	cd0f2ac5cbbc3cb8
+13	11079	1712050245608306340	/media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/build/temp.linux-x86_64-cpython-37/fcos_core/csrc/cuda/SigmoidFocalLoss_cuda.o	d00f699e618f1275
+10	19440	1712050253968340783	/media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/build/temp.linux-x86_64-cpython-37/fcos_core/csrc/cpu/ROIAlign_cpu.o	53c97ce74cf097b
+12	11403	1712050245936307696	/media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/build/temp.linux-x86_64-cpython-37/fcos_core/csrc/cuda/ROIPool_cuda.o	e2db8af56987a88d
+12	12020	1712050246548310225	/media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/build/temp.linux-x86_64-cpython-37/fcos_core/csrc/cuda/ROIAlign_cuda.o	c65d772401d0de3e
+14	11071	1712050245604306324	/media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/build/temp.linux-x86_64-cpython-37/fcos_core/csrc/cuda/nms.o	321651f412507038
+12	10958	1712115425955288148	/media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/build/temp.linux-x86_64-cpython-37/fcos_core/csrc/cuda/SigmoidFocalLoss_cuda.o	9b530c1e1a5e8046
+11	11027	1712115426027288369	/media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/build/temp.linux-x86_64-cpython-37/fcos_core/csrc/cuda/ROIAlign_cuda.o	49627a47a0727a8
+12	11121	1712115426115288641	/media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/build/temp.linux-x86_64-cpython-37/fcos_core/csrc/cuda/ml_nms.o	67447e80d522628e
+11	11156	1712115426151288752	/media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/build/temp.linux-x86_64-cpython-37/fcos_core/csrc/cuda/ROIPool_cuda.o	6237d229bdfa6556
+13	11189	1712115426191288876	/media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/build/temp.linux-x86_64-cpython-37/fcos_core/csrc/cuda/nms.o	f43451532455692f
+10	18082	1712115433079310096	/media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/build/temp.linux-x86_64-cpython-37/fcos_core/csrc/cpu/nms_cpu.o	a9001286c2313f4f
+9	18928	1712115433927312705	/media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/build/temp.linux-x86_64-cpython-37/fcos_core/csrc/cpu/ROIAlign_cpu.o	60f7a702205b8778
+13	20887	1712115435887318734	/media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/build/temp.linux-x86_64-cpython-37/fcos_core/csrc/vision.o	1003993111708ab6
+18	12536	1712115449547360655	/media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/build/temp.linux-x86_64-cpython-37/fcos_core/csrc/cuda/SigmoidFocalLoss_cuda.o	d00f699e618f1275
+14	12935	1712115449947361881	/media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/build/temp.linux-x86_64-cpython-37/fcos_core/csrc/cuda/ROIPool_cuda.o	e2db8af56987a88d
+19	12971	1712115449975361967	/media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/build/temp.linux-x86_64-cpython-37/fcos_core/csrc/cuda/ml_nms.o	cd0f2ac5cbbc3cb8
+11	13045	1712115450051362199	/media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/build/temp.linux-x86_64-cpython-37/fcos_core/csrc/cuda/ROIAlign_cuda.o	c65d772401d0de3e
+19	13258	1712115450263362848	/media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/build/temp.linux-x86_64-cpython-37/fcos_core/csrc/cuda/nms.o	321651f412507038
+6	20797	1712115457803385912	/media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/build/temp.linux-x86_64-cpython-37/fcos_core/csrc/cpu/nms_cpu.o	bb52541d314c035a
+5	21129	1712115458135386927	/media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/build/temp.linux-x86_64-cpython-37/fcos_core/csrc/cpu/ROIAlign_cpu.o	53c97ce74cf097b
+19	22634	1712115459635391508	/media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/build/temp.linux-x86_64-cpython-37/fcos_core/csrc/vision.o	114d239e66b21d63

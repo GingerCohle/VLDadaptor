@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: fcos
+Version: 0.1.9
+Summary: FCOS object detector in pytorch
+Home-page: https://github.com/tianzhi0549/FCOS
+Author: Zhi Tian
+License-File: LICENSE
