@@ -2,8 +2,6 @@
 
 # VLDadaptor
 
-### ~~Current, we are organize the code and model weight. They will be uploaded by 4/16~~ 
-
 ## Installation
 
 ####  Our work is based on Python 3.7 and Pytorch 1.7.1+cu111 due to the  [CLIP requirement](https://github.com/openai/CLIP). The hardware is Nvidia Tesla V100 single GPU. Give a big thanks to Dr. Li WuYang with his work [SIGMA](https://github.com/CityU-AIM-Group/SIGMA). We use it as baseline.
