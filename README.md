@@ -296,4 +296,4 @@ def update_seed(self, sr_nodes, sr_labels, tg_nodes=None, tg_labels=None):
 
 ### Detection (For [5151](https://github.com/voxel51/fiftyone))
 
-#### StillTuned !!!!!, If you want the visualization Code, I can record a video for Visualization.
+#### Stay Tuned !!!!!, If you want the visualization Code, I can record a video for Visualization.
