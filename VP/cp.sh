@@ -1,0 +1,3 @@
+cp  /media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/fcos_core/modeling/rpn/fcos/graph_matching_head.py  /media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/experiments/sigma_plus_plus/pascal_to_clipart
+cp  /media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/fcos_core/modeling/rpn/fcos/loss.py  /media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/experiments/sigma_plus_plus/pascal_to_clipart
+cp /media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/configs/sigma_plus_plus/pascal_to_clipart_res101.yaml  /media/vipsl-1/Domain_adaption_repo/SIGMA_modification/night1/daynightsigma/experiments/sigma_plus_plus/pascal_to_clipart
