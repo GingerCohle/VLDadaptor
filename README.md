@@ -1,7 +1,13 @@
 
 
-# VLDadaptor (TMM 2024 Early Access)
-
+# VLDadaptor (TMM 2024 Early Access)[paper](https://ieeexplore.ieee.org/abstract/document/10669066)
+@article{ke2024vldadaptor,
+  title={VLDadaptor: Domain Adaptive Object Detection with Vision-Language Model Distillation},
+  author={Ke, Junjie and He, Lihuo and Han, Bo and Li, Jie and Wang, Di and Gao, Xinbo},
+  journal={IEEE Transactions on Multimedia},
+  year={2024},
+  publisher={IEEE}
+}
 ## Installation
 
 ####  Our work is based on Python 3.7 and Pytorch 1.7.1+cu111 due to the  [CLIP requirement](https://github.com/openai/CLIP). The hardware is Nvidia Tesla V100 single GPU. Give a big thanks to Dr. Li WuYang with his work [SIGMA](https://github.com/CityU-AIM-Group/SIGMA). We use it as baseline. The trained pth are  uploaded to [google drive](https://drive.google.com/drive/folders/1pmEXHRD7R_EnqTrL5VBvOo9mIJ5a2H9J?usp=drive_link.).
