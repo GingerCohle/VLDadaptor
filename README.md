@@ -1,6 +1,6 @@
 
 
-# VLDadaptor (TMM 2024 Early Access)[paper](https://ieeexplore.ieee.org/abstract/document/10669066)
+# VLDadaptor (TMM 2024)[paper](https://ieeexplore.ieee.org/abstract/document/10669066)
 @article{ke2024vldadaptor,
   title={VLDadaptor: Domain Adaptive Object Detection with Vision-Language Model Distillation},
   author={Ke, Junjie and He, Lihuo and Han, Bo and Li, Jie and Wang, Di and Gao, Xinbo},
